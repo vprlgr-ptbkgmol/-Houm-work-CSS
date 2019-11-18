@@ -1,0 +1,105 @@
+body {
+  background-image: url(https://static.schools.by/images/header-bg/img-16.jpg);
+}
+a {
+  color: #fff;
+}
+a:hover {
+  text-decoration: none;
+}
+.new {
+  border: 1px solid #335ebb;
+  padding: 18px;
+  display: inline-block;
+  border-radius: 3px;
+  background: #335ebb;
+  margin-top: 12px;
+}
+.new:hover {
+  background: #49c3f3;
+}
+.icon {
+  height: 25px;
+  width: 25px;
+  padding-left: 229px;
+  margin-top: -54px;
+
+  margin-left: 30px;
+}
+.or {
+  text-align: center;
+}
+.wer {
+  text-align: center;
+  border-bottom: 1px solid#FEFEFE;
+}
+.new1 {
+  border: 1px solid #dadada;
+  padding: 8px;
+  display: inline-block;
+  font-size: 13px;
+  background: #f8f8f8f6;
+  color: #7d7d85;
+  border-radius: 3px;
+}
+.int {
+  border: 1px solid #dadada;
+  padding: 8px;
+  display: inline;
+  font-size: 13px;
+  background: #909aa6;
+  color: #c0c0c2;
+  border-radius: 3px;
+}
+.rew {
+  /* height: 350px; */
+  width: 280px;
+  color: #fff;
+  border: 1px solid #fff;
+  margin: auto;
+  margin-top: 12%;
+  background-color: rgba(169, 174, 180, 0.7);
+  padding: 13px;
+  margin-bottom: 45px;
+  box-shadow: 0 -5px 0 #33aadd;
+}
+.rew2 {
+  /* text-align: center; */
+  margin-bottom: 15px;
+  /* padding: 13px; */
+}
+
+.rew4 {
+  text-align: center;
+  margin-top: 12px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 270px;
+  height: 35px;
+  border-radius: 4px;
+  padding-left: 10px;
+}
+.reww {
+  width: 120px;
+  height: 120px;
+  border: 3px solid rgb(24, 41, 61);
+  border-radius: 50%;
+  margin-top: -80px;
+  margin-left: 75px;
+}
+input[type="submit"] {
+  width: 80px;
+  height: 34px;
+  background: rgb(18, 18, 17);
+  color: #fff;
+}
+input[type="submit"]:hover {
+  background-color: rgb(73, 195, 243);
+}
+.fer {
+  text-align: right;
+  margin-top: -11px;
+  padding-right: 12px;
+}
